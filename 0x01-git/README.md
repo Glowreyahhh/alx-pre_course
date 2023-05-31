@@ -1,1 +1,1 @@
-"goodman gloria is learning ALX "
+My second readme updated
